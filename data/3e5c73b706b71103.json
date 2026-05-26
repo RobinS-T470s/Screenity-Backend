@@ -1,0 +1,2179 @@
+{
+    "device_id": "3e5c73b706b71103",
+    "device_name": "SM-P610",
+    "reports": {
+        "2026-05-18": {
+            "total_screen_time_ms": 11374702,
+            "apps": [
+                {
+                    "app_name": "com.adilhanney.saber",
+                    "usage_ms": 11145922
+                },
+                {
+                    "app_name": "org.mozilla.fennec_fdroid",
+                    "usage_ms": 143185
+                },
+                {
+                    "app_name": "org.forkgram.messenger",
+                    "usage_ms": 68070
+                },
+                {
+                    "app_name": "com.android.launcher3",
+                    "usage_ms": 53274
+                },
+                {
+                    "app_name": "org.fairscan.app",
+                    "usage_ms": 27992
+                },
+                {
+                    "app_name": "com.best.deskclock",
+                    "usage_ms": 12647
+                },
+                {
+                    "app_name": "org.onekash.kashcal",
+                    "usage_ms": 10338
+                },
+                {
+                    "app_name": "Dateien",
+                    "usage_ms": 3094
+                },
+                {
+                    "app_name": "com.akslabs.circletosearch",
+                    "usage_ms": 2553
+                },
+                {
+                    "app_name": "Einstellungen",
+                    "usage_ms": 295
+                }
+            ],
+            "detailed_events": [
+                {
+                    "timestamp": 1779075097370,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779075120733,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779076129863,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779076132307,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779078648664,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779078651390,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779082622035,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779082629785,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "timestamp": 1779082631219,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779082631736,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779082631759,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779082634700,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779083033756,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779083039210,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779083040231,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779083040247,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "timestamp": 1779083244570,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779083245126,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779083245973,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779083249500,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779083486224,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779083487240,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779083487582,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779083489207,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779083491944,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779083492108,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779083493223,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779083494565,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779084952232,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779084952748,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779085007548,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779085013127,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779085075468,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779085075617,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779085396706,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779085397259,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779085458899,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779085463866,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779085660697,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779085660795,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779087356991,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779087357068,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779087970511,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779087970680,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779087997230,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779087997348,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779088150595,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779088150672,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779088207584,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779088208851,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779088209999,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779088210509,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779089715689,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779089720888,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779089722281,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779089722385,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779089783329,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779089783765,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779089785304,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "org.onekash.kashcal",
+                    "timestamp": 1779089785314,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779089794897,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "org.onekash.kashcal",
+                    "timestamp": 1779089795652,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779089795679,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779089795726,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779089797471,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779089797965,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779089954941,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779089964935,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779089971869,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779089981837,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779089993146,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779089996746,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779090054418,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779090054533,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779090056787,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779090058432,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779090062084,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779090071649,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779090080788,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779090081394,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779090082847,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779090089318,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779090089873,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779090093365,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779090093539,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779090105973,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779090116546,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779090118645,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779090120059,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779090130050,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779090134754,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779090153456,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779090154228,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779090159147,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779090160543,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779090160914,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779090161971,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "org.fairscan.app",
+                    "timestamp": 1779090162102,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779090176900,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "org.fairscan.app",
+                    "timestamp": 1779090177835,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779090177858,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779090178018,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779090181909,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779090181978,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779090445439,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779090446003,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779090473168,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779090476123,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779090477688,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779090478307,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779090478784,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "org.mozilla.fennec_fdroid",
+                    "timestamp": 1779090479365,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779090621930,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "org.mozilla.fennec_fdroid",
+                    "timestamp": 1779090622550,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779090622569,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779090622612,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779091332513,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779091333013,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779092443466,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779092461374,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779094080390,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779094086231,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779094466489,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779094466582,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779094562243,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779094562363,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779094806763,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779094808615,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779094812577,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779104039652,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1779104039652,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1779104039652,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1779104039652,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1779104039947,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779104040020,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779104045412,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779104046017,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "timestamp": 1779104202133,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779104202721,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779104963511,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779104969764,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779104971169,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779104971547,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779104972551,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779104972895,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779104973328,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779104973799,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779104974754,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "org.fairscan.app",
+                    "timestamp": 1779104974902,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779104986485,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "org.fairscan.app",
+                    "timestamp": 1779104987161,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779104987180,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779104987250,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779104989710,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.documentsui",
+                    "timestamp": 1779104989855,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.documentsui",
+                    "timestamp": 1779104992949,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779104992959,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779105051477,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779105053260,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779105060219,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779105060334,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779106178516,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779106179085,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779106180780,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779106180786,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "timestamp": 1779106458884,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779106459432,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779106508637,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779106517681,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779106851551,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779106851918,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779107315568,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779107315705,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779107324376,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779107324476,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779107542493,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779107543511,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779107839570,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779107840089,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779107843657,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779107850839,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "timestamp": 1779108136078,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779108136609,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779108215417,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779108219194,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "org.forkgram.messenger",
+                    "timestamp": 1779108387297,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "org.forkgram.messenger",
+                    "timestamp": 1779108394999,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "org.forkgram.messenger",
+                    "timestamp": 1779108397473,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "org.forkgram.messenger",
+                    "timestamp": 1779108403056,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "org.forkgram.messenger",
+                    "timestamp": 1779108417854,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "org.forkgram.messenger",
+                    "timestamp": 1779108424757,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "org.forkgram.messenger",
+                    "timestamp": 1779108431266,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "org.forkgram.messenger",
+                    "timestamp": 1779108437681,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "org.forkgram.messenger",
+                    "timestamp": 1779108457328,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "org.forkgram.messenger",
+                    "timestamp": 1779108462353,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "org.forkgram.messenger",
+                    "timestamp": 1779108468323,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "org.forkgram.messenger",
+                    "timestamp": 1779108469677,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "org.forkgram.messenger",
+                    "timestamp": 1779108471054,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "org.forkgram.messenger",
+                    "timestamp": 1779108474585,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "org.forkgram.messenger",
+                    "timestamp": 1779108492630,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "org.forkgram.messenger",
+                    "timestamp": 1779108493422,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779108571137,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779108572512,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "org.forkgram.messenger",
+                    "timestamp": 1779108572639,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "org.forkgram.messenger",
+                    "timestamp": 1779108574650,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779108577690,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.best.deskclock",
+                    "timestamp": 1779108577868,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779108585581,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.best.deskclock",
+                    "timestamp": 1779108586187,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779108592487,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.best.deskclock",
+                    "timestamp": 1779108592504,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779108594169,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.best.deskclock",
+                    "timestamp": 1779108596832,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779108596858,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779108597294,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779108612684,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779108612871,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "org.forkgram.messenger",
+                    "timestamp": 1779108898964,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "org.forkgram.messenger",
+                    "timestamp": 1779108904255,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "org.forkgram.messenger",
+                    "timestamp": 1779108905777,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "org.forkgram.messenger",
+                    "timestamp": 1779108920846,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "org.forkgram.messenger",
+                    "timestamp": 1779109007372,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "org.forkgram.messenger",
+                    "timestamp": 1779109012787,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "org.forkgram.messenger",
+                    "timestamp": 1779109013220,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "org.forkgram.messenger",
+                    "timestamp": 1779109016199,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779109349124,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779109349247,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779109349319,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.akslabs.circletosearch",
+                    "timestamp": 1779109349336,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779109350362,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.akslabs.circletosearch",
+                    "timestamp": 1779109351889,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779109354623,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779109355104,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779109355443,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779109355493,
+                    "type": "SCREEN_OFF"
+                }
+            ]
+        },
+        "2026-05-19": {
+            "total_screen_time_ms": 8952562,
+            "apps": [
+                {
+                    "app_name": "com.adilhanney.saber",
+                    "usage_ms": 8849444
+                },
+                {
+                    "app_name": "com.android.launcher3",
+                    "usage_ms": 78721
+                },
+                {
+                    "app_name": "org.onekash.kashcal",
+                    "usage_ms": 46436
+                },
+                {
+                    "app_name": "org.forkgram.messenger",
+                    "usage_ms": 3249
+                }
+            ],
+            "detailed_events": [
+                {
+                    "timestamp": 1779162968581,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779162970053,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779169303308,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779169311236,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779169312042,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "packageName": "org.forkgram.messenger",
+                    "timestamp": 1779169318200,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779169319809,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "org.forkgram.messenger",
+                    "timestamp": 1779169321449,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779169324712,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779169324838,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "timestamp": 1779169330715,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779169331211,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779169432176,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779169435177,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "timestamp": 1779170153752,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779170154300,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779170535800,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779170539873,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779171015069,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779171015248,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779171287963,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779171288037,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779171418274,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779171418364,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779171718767,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779171719328,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779172176089,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779172179359,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779172273138,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779172273214,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779172624214,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779172624313,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779172921067,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779172921161,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779173030246,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779173030564,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779173562230,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779173562423,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779173603623,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779173604027,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779173607959,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779173608250,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779173737442,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779173737527,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779174142878,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779174143456,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779174148368,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779174151969,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779174240876,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779174240957,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779174608143,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779174610142,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779174610887,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779174611367,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779175736348,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779175746190,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779175747845,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779175747958,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "timestamp": 1779175759745,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779175760236,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779175891617,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779175894818,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779176368503,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779176368938,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779177032943,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779177033097,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779179162409,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779179162653,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779179163192,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779179163463,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779179384483,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779179385098,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779179386023,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "org.onekash.kashcal",
+                    "timestamp": 1779179386035,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779179430423,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "org.onekash.kashcal",
+                    "timestamp": 1779179432471,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779179434648,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779179434751,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "timestamp": 1779180157964,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779180158465,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779180173180,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779180179162,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779180185928,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779180197614,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779180242370,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779180242387,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779180326374,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779180328307,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779180519582,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779180520522,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779180520797,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779180522136,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779180522973,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779180523467,
+                    "type": "APP_CLOSE"
+                }
+            ]
+        },
+        "2026-05-22": {
+            "total_screen_time_ms": 3070948,
+            "apps": [
+                {
+                    "app_name": "com.adilhanney.saber",
+                    "usage_ms": 2905367
+                },
+                {
+                    "app_name": "com.android.launcher3",
+                    "usage_ms": 163899
+                },
+                {
+                    "app_name": "org.mozilla.fennec_fdroid",
+                    "usage_ms": 13522
+                },
+                {
+                    "app_name": "Einstellungen",
+                    "usage_ms": 431
+                }
+            ],
+            "detailed_events": [
+                {
+                    "timestamp": 1779429074539,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1779429074539,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1779429074539,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1779429074539,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1779429074686,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779429074768,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779429084654,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779429085078,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779429313913,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779429314035,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779429859321,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779429863536,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779429975800,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779429976352,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779430287079,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779430294018,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779430295801,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779430295820,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779430727289,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779430728941,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779430732784,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779430732886,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779430732913,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779430732934,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779431897241,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779431898250,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779432934944,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779432935364,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779435163142,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779435163301,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779435205728,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779435208119,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779435209448,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779435214485,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779435223665,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779435223775,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "timestamp": 1779435242210,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779435242699,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779435884978,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779435888319,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779436671487,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779436672831,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779436674808,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779436719243,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1779436719243,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1779436719243,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1779436719243,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1779436719527,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779436719654,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779436723507,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779436723718,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "timestamp": 1779436861640,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779436862223,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779436994207,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779437036462,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779437047552,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779437061064,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779437721369,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779437731086,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779437957844,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779437970706,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779437972512,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779437983593,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779437995689,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779438015325,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779438017072,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779438018318,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779438026045,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "org.mozilla.fennec_fdroid",
+                    "timestamp": 1779438026727,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779438027758,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "org.mozilla.fennec_fdroid",
+                    "timestamp": 1779438028842,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779438029056,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "org.mozilla.fennec_fdroid",
+                    "timestamp": 1779438029074,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "timestamp": 1779438036941,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "packageName": "org.mozilla.fennec_fdroid",
+                    "timestamp": 1779438037632,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779438390540,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779438392755,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779438397832,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779438403575,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779438416875,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779438417691,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779440334751,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779440337190,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779440337719,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779440342399,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779440344900,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "packageName": "org.mozilla.fennec_fdroid",
+                    "timestamp": 1779440348493,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779440349874,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "org.mozilla.fennec_fdroid",
+                    "timestamp": 1779440352033,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779440352934,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779440353042,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779440505599,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779440505862,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779440673977,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.launcher3",
+                    "timestamp": 1779440674163,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779441102968,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "packageName": "com.adilhanney.saber",
+                    "timestamp": 1779441103446,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1779441117537,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779441118827,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779441141906,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779441142500,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779441143085,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779441143606,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779441144258,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779441148662,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779441151855,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779441152086,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779441152466,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779441153398,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779441153578,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779441163732,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779447191676,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779447194073,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779447963310,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779447963373,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1779447964050,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1779447966547,
+                    "type": "SCREEN_OFF"
+                }
+            ]
+        }
+    }
+}

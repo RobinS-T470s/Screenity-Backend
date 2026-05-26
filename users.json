@@ -1,0 +1,14 @@
+{
+    "1": {
+        "name": "Robin Schanbacher",
+        "email": "robin@schanbros.de",
+        "password": "EKMYwa9yc&robin2",
+        "is_admin": true,
+        "devices": [
+            "4950b7811d57268d",
+            "d1be2cb6cbd8ef59",
+            "d3e8f3c74675c343",
+            "3e5c73b706b71103"
+        ]
+    }
+}

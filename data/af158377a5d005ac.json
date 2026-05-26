@@ -1,0 +1,2858 @@
+{
+    "device_id": "af158377a5d005ac",
+    "device_name": "Pixel Tablet",
+    "reports": {
+        "2026-05-08": {
+            "total_screen_time_ms": 9102509,
+            "apps": [
+                {
+                    "app_name": "Einstellungen",
+                    "usage_ms": 3313681
+                },
+                {
+                    "app_name": "com.google.android.apps.nexuslauncher",
+                    "usage_ms": 3132159
+                },
+                {
+                    "app_name": "com.google.android.youtube",
+                    "usage_ms": 2702009
+                },
+                {
+                    "app_name": "com.google.android.googlequicksearchbox",
+                    "usage_ms": 2631543
+                },
+                {
+                    "app_name": "Screenity",
+                    "usage_ms": 1713341
+                },
+                {
+                    "app_name": "com.google.android.gm",
+                    "usage_ms": 423815
+                },
+                {
+                    "app_name": "Digital Wellbeing",
+                    "usage_ms": 23695
+                },
+                {
+                    "app_name": "com.android.chrome",
+                    "usage_ms": 22335
+                },
+                {
+                    "app_name": "Berechtigungssteuerung",
+                    "usage_ms": 13081
+                },
+                {
+                    "app_name": "com.android.camera2",
+                    "usage_ms": 13047
+                },
+                {
+                    "app_name": "com.google.android.as",
+                    "usage_ms": 12417
+                },
+                {
+                    "app_name": "Google Play Store",
+                    "usage_ms": 4066
+                },
+                {
+                    "app_name": "System-UI",
+                    "usage_ms": 3841
+                },
+                {
+                    "app_name": "Paketinstallation",
+                    "usage_ms": 2927
+                },
+                {
+                    "app_name": "IntentResolver",
+                    "usage_ms": 2262
+                },
+                {
+                    "app_name": "de.schanbro.mywidgets",
+                    "usage_ms": 1377
+                }
+            ],
+            "detailed_events": [
+                {
+                    "timestamp": 1778243898950,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778243898950,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778243904841,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778243905197,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778243936357,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "timestamp": 1778243952920,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1778243955373,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1778243956350,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1778243956463,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1778243956665,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1778243956871,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1778243956909,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1778243957181,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1778243957707,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1778243957888,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "timestamp": 1778243958365,
+                    "type": "SCREEN_OFF"
+                },
+                {
+                    "timestamp": 1778243959014,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778243978810,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778243992248,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778244011556,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778244020272,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.camera2",
+                    "timestamp": 1778244020450,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.camera2",
+                    "timestamp": 1778244023918,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.systemui",
+                    "timestamp": 1778244023953,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.systemui",
+                    "timestamp": 1778244027794,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.camera2",
+                    "timestamp": 1778244027802,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.camera2",
+                    "timestamp": 1778244037381,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.permissioncontroller",
+                    "timestamp": 1778244037391,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778244040565,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.permissioncontroller",
+                    "timestamp": 1778244043798,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.vending",
+                    "timestamp": 1778244043806,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.vending",
+                    "timestamp": 1778244044748,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.vending",
+                    "timestamp": 1778244044752,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778244045115,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778244049127,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778244054385,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244056056,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244056173,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244056173,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244056217,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244058236,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244058246,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778244076546,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778244108786,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244111240,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244111436,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244111443,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244111702,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244113824,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244113829,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778244130635,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778244161046,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778244166436,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778244170091,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778244171644,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778244172069,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778244172081,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778244172653,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778244174954,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778244176297,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778244176751,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778244178629,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244181988,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244182212,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244182218,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244182705,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778244182942,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244184516,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244184517,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244214403,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244214457,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778244214467,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778244218943,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244218996,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244219129,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244229736,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244229746,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244236100,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244236121,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244256798,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244256800,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244259818,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244259844,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244262451,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244262461,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244262533,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244262541,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244264964,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244264976,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244275304,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244275326,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244278867,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244278886,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244282576,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244282578,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244295432,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244295435,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244305510,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244305512,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778244309578,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778244315014,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778244339115,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778244348107,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778244349244,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778244349878,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778244349879,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778244352280,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778244352292,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778244359395,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778244403780,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244403785,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244404279,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244413041,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244413048,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244416463,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778244416483,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778244421578,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778244425212,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778244430533,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778244432060,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778244432616,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778244435064,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778244435100,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778244435748,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778244435750,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778244436898,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778244436944,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778244437081,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778244437199,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778244438920,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778244438931,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778244440093,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778244440122,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778244464503,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778244464512,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778244465000,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778244465002,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245009981,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245110729,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245111877,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245112699,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245124987,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.packageinstaller",
+                    "timestamp": 1778245124996,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.packageinstaller",
+                    "timestamp": 1778245127923,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245127924,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245143767,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778245147780,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778245155285,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778245155348,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778245157642,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778245157656,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778245160715,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778245160719,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778245162665,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778245162670,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778245163236,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778245163255,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778245166230,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778245166265,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778245171201,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778245171212,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778245172642,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778245172648,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778245173932,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778245173949,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778245173983,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778245173986,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778245179896,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778245179903,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245228865,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245229168,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245229983,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778245230947,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245231667,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245232345,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245235052,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778245235077,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778245235733,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245235759,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245238968,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "de.schanbro.mywidgets",
+                    "timestamp": 1778245240089,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245240429,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "de.schanbro.mywidgets",
+                    "timestamp": 1778245241466,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245241890,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.vending",
+                    "timestamp": 1778245241943,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.vending",
+                    "timestamp": 1778245243267,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.vending",
+                    "timestamp": 1778245243332,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245243610,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.vending",
+                    "timestamp": 1778245245132,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245245753,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778245245795,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778245246147,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245246164,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245247798,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778245247818,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778245248379,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245248384,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245249834,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778245249836,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778245250081,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245250115,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245251542,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778245251548,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778245252123,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245252128,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245372918,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778245372920,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245399340,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778245401378,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245403813,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778245403840,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778245404241,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778245411348,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778245411358,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245414212,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778245419363,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778245419369,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778245421623,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778245421669,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778245424489,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778245424519,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778245426495,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778245426517,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778245435503,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778245435508,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245436741,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245448979,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245455064,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245459088,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778245460283,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778245460284,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245460284,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245467752,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778245467759,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245565881,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245582283,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.intentresolver",
+                    "timestamp": 1778245582438,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.intentresolver",
+                    "timestamp": 1778245584700,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245584846,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245616036,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778245616037,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778245618617,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.chrome",
+                    "timestamp": 1778245618877,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.chrome",
+                    "timestamp": 1778245619092,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.chrome",
+                    "timestamp": 1778245619141,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245623316,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.googlequicksearchbox",
+                    "timestamp": 1778245660475,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245670752,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245670772,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245673813,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.as",
+                    "timestamp": 1778245674506,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.as",
+                    "timestamp": 1778245686923,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245686929,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245694166,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.googlequicksearchbox",
+                    "timestamp": 1778245703738,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778245714517,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778245714543,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778246071002,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778246082635,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778246086540,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778246439318,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778246447182,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778246450934,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778247132259,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778247141842,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778247143577,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778247183512,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778247183516,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778247185662,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778247187795,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778247188317,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778247188330,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778247194567,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778247196945,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778247196968,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778247206699,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778247206700,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778247208954,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778247208958,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778247213974,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778247213974,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778247215812,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778247217457,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778247217896,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778247217917,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778247219644,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.chrome",
+                    "timestamp": 1778247219736,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778247223065,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778247226920,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778247226965,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778247441068,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778247444333,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778247446180,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778247461420,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778247461424,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778247463327,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778247464726,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778247465116,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778247465119,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778247467317,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778247472550,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778247472573,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778247477305,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778247477442,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778247477978,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778247481728,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778247481752,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778247490128,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778247490141,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778247494388,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778247494402,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778247497411,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778247497416,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778247505047,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778247505068,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778247509716,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778247509730,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778247513908,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778247513934,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778247514102,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778247514165,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778247516030,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778247516037,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778247519631,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778247519645,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778247522389,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778247522404,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778247527984,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778247527988,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778247527988,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778247529682,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778247529715,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778247550717,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778247550719,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778247552505,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778247552940,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778247555155,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778247555162,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778247559723,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778247559726,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778247561156,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778247561212,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778247561985,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778247561988,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778247564719,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778247569127,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778247569128,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778248165601,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778248174112,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778248177183,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778248344382,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778248350963,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778248353170,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778248385929,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778248385929,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778248389186,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778248391403,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778248401766,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778248401767,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778248403172,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778248404467,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778248404876,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778248404879,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778248408878,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778248410816,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778248410819,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778248578185,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778248583776,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778248585371,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778248610276,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778248610277,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778248611800,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778248612956,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778248613300,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778248613305,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778248614784,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778248616508,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778248616512,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778248633953,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778248633958,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778248635461,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778248636613,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778248637097,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778248637132,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778248684001,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778248684002,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778248685481,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778248685486,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778248693263,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778248693264,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778248694445,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778248694452,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778248696369,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778248699014,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778248700043,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778248700334,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778248700339,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778248702678,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778248704119,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778248704127,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778248717373,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778248717378,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778248718533,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778248719380,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778248719780,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778248719785,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778248721198,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778248723203,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778248866219,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778248867660,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778248867664,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778248874981,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778248874982,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778248876215,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778248877148,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778248877560,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778248877562,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778248879000,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778248880583,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778248880586,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778249132957,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778249138824,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778249140844,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778249173380,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778249173384,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778249174996,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778249176224,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778249176587,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778249176589,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778249179582,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778249222881,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778249222887,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778249231332,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778249231344,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778249232955,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778249234304,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778249234770,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778249234778,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778249238294,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778249243493,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778249243510,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778249243573,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778249287014,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778249288586,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778249306612,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778249306613,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778249308918,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778249308937,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778249312867,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778249316040,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778249317381,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778249317661,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778249317665,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778249324172,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778249324213,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778249326689,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778249326714,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778249326740,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778249370523,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778249370572,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.chrome",
+                    "timestamp": 1778249370617,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.chrome",
+                    "timestamp": 1778249375379,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.permissioncontroller",
+                    "timestamp": 1778249375439,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.permissioncontroller",
+                    "timestamp": 1778249379339,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.chrome",
+                    "timestamp": 1778249379349,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.chrome",
+                    "timestamp": 1778249396707,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778249396731,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778249609114,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778249609118,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778249611102,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778249611131,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778249616832,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778249616851,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778249860655,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778249860662,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778249872568,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778249876855,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778249877849,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778249879893,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778249880272,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778249880278,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778249882399,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778249884573,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778249884797,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778249902969,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778249904855,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778249979767,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778249983007,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778249984254,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778249984624,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778249984628,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778249994688,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778249997317,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778249997518,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778249997907,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778249997947,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778249998078,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778249998476,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778249999450,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778249999486,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778250005178,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.wellbeing",
+                    "timestamp": 1778250005200,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.wellbeing",
+                    "timestamp": 1778250006001,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.wellbeing",
+                    "timestamp": 1778250006022,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.wellbeing",
+                    "timestamp": 1778250028916,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778250028929,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778250037811,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778250037840,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778250039286,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778250039312,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778250043658,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778250043667,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778250046560,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778250046568,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778250049501,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778250049516,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778250054928,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778250054936,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778250056982,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1778250057002,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778250061758,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778250065584,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778250065631,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778250073313,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778250073323,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778250075054,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778250075561,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778250079100,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778250079119,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778250079797,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778250079802,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778250082548,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778250082576,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.gm",
+                    "timestamp": 1778250082867,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778250082908,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778250085598,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778250085598,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778250114850,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778250360119,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.youtube",
+                    "timestamp": 1778250361836,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.youtube",
+                    "timestamp": 1778250362215,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.youtube",
+                    "timestamp": 1778250362223,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.youtube",
+                    "timestamp": 1778250363826,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.permissioncontroller",
+                    "timestamp": 1778250363827,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.permissioncontroller",
+                    "timestamp": 1778250366601,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.youtube",
+                    "timestamp": 1778250366657,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778250382100,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778250435054,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.googlequicksearchbox",
+                    "timestamp": 1778250435141,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778250447451,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1778251994540,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "de.schanbro.screenity",
+                    "timestamp": 1778251997853,
+                    "type": "APP_OPEN"
+                }
+            ]
+        },
+        "2026-05-26": {
+            "total_screen_time_ms": 51371,
+            "apps": [
+                {
+                    "app_name": "com.google.android.apps.nexuslauncher",
+                    "usage_ms": 49179
+                },
+                {
+                    "app_name": "Einstellungen",
+                    "usage_ms": 2212
+                }
+            ],
+            "detailed_events": [
+                {
+                    "timestamp": 1779811594277,
+                    "type": "SCREEN_ON"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1779811594277,
+                    "type": "APP_OPEN"
+                },
+                {
+                    "packageName": "com.android.settings",
+                    "timestamp": 1779811596489,
+                    "type": "APP_CLOSE"
+                },
+                {
+                    "packageName": "com.google.android.apps.nexuslauncher",
+                    "timestamp": 1779811596503,
+                    "type": "APP_OPEN"
+                }
+            ]
+        }
+    }
+}
